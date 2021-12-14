@@ -1,0 +1,32 @@
+{
+  "name": "zesway-xiao7-sdk",
+  "version": "1.0.0",
+  "description": "xiao7 sdk help libs",
+  "main": "dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhihesoft/zesway-x7-lib.git"
+  },
+  "keywords": [
+    "xiao7",
+    "utility",
+    "meta"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhihesoft/zesway-x7-lib/issues"
+  },
+  "homepage": "https://github.com/zhihesoft/zesway-x7-lib#readme",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/request": "^2.48.7"
+  }
+}
