@@ -1,4 +1,4 @@
-export interface CheckLoginResp {
+export interface CheckTokenResp {
     errorno: number;
     errormsg: string;
     data: {
